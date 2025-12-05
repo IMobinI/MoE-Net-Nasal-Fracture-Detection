@@ -33,3 +33,13 @@ A Genetic Algorithm optimizes expert contribution weights, allowing the ensemble
 <p align="center"> <img src="Images/Grad-CAM.png" width="80%"> </p>
 
 Grad-CAM visualizations highlight the regions most influential in the model’s decision-making, increasing interpretability and supporting potential clinical adoption.
+
+## Acknowledgements
+
+I gratefully acknowledge the contributions and support of:
+
+- Prof. Seyed Abolghasem Mirroshandel — supervision and scientific guidance  
+- Dr. Tahereh Mortezaei — clinical expertise and dataset supervision  
+- Dr. Zahra Dalili Kajan — radiology annotations and clinical validation  
+
+Their expertise and collaboration were essential to the success of this project.
