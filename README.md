@@ -39,7 +39,7 @@ Grad-CAM visualizations highlight the regions most influential in the model’s 
 I gratefully acknowledge the contributions and support of:
 
 - Prof. Seyed Abolghasem Mirroshandel — supervision and scientific guidance  
-- Dr. Tahereh Mortezaei — clinical expertise and dataset supervision  
-- Dr. Zahra Dalili Kajan — radiology annotations and clinical validation  
+- Dr. Zahra Dalili Kajan — clinical expertise and dataset supervision  
+- Dr. Tahereh Mortezaei — radiology annotations and clinical validation  
 
 Their expertise and collaboration were essential to the success of this project.
