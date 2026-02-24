@@ -116,7 +116,7 @@ keywords = {Nasal bone fracture, Deep learning, Convolutional neural networks, E
 
 We gratefully acknowledge:
 
-- Prof. Seyed Abolghasem Mirroshandel — supervision and scientific guidance
+- Dr. Seyed Abolghasem Mirroshandel — supervision and scientific guidance
 
 - Dr. Zahra Dalili Kajan — clinical expertise and dataset supervision
 
